@@ -1,5 +1,5 @@
-import gradio as gr
-import google.generativeai as genai
+import gradio  as gr
+import google.generativeai  as genai
 
 # Gemini API configuration
 genai.configure(api_key="AIzaSyABjjtDkWlJTGYgy5mkagHlDAEhpPTm1JI")
