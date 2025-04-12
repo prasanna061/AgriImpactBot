@@ -4,7 +4,7 @@ AgriImpactBot is an AI-powered chatbot built to assist farmers, students, and re
 
 This web-based chatbot uses a Large Language Model (LLM) API to provide intelligent, real-time assessments and suggestions to promote sustainable energy usage in farming.
 
-Demo Youtube Video :- https://youtu.be/PAJzEYyXtxk
+Demo Youtube Video :- https://youtu.be/b065aateRVo
 
 What It Does
 Evaluates the environmental footprint (carbon emissions, sustainability, energy efficiency) of different farming energy setups.
